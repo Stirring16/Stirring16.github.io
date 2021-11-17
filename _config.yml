@@ -25,9 +25,9 @@ urls:
 author_logo: Stirring.jpg
 author: Stirring
 author_bio: Hi, my name is Stirring :D
-author_email: "thanhduan.0106@gmail.com"
+# author_email: "thanhduan.0106@gmail.com"
 author_location: VietNam
-author_website_url: "https://stirring16.github.io/about/#/"
+# author_website_url: "https://stirring16.github.io/about/#/"
 typewrite-text: Hi, I'm an Information Security Engineer, passionate about Capture the Flag (CTF)
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
